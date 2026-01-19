@@ -1,0 +1,38 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Build outputs
+*.app
+*.exe
+*.dll
+*.so
+*.dylib
+*.br
+*.wasm
+*.data
+*.framework.js
+*.loader.js
+TPSwebgame/
+TPSGameplay.app/
+tps_BurstDebugInformation_DoNotShip/
+
+# Unity crash reports
+*.crash
+*.log
+mono_crash.*
+
+# Visual Studio cache
+.vs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Package manager
+Packages/packages-lock.json
